@@ -13,7 +13,3 @@ I'm a Software Engineer / Front End Developer / UX Designer / Visual Designer li
 ## 🛠 Skills
 
 HTML, CSS, JavaScript - plus a bunch of other stuff
-
-## 📊 Some Stats
-
-![Metrics](https://github.com/danpoynor/danpoynor/blob/main/github-metrics.svg)
